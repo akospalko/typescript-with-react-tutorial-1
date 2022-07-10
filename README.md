@@ -1,5 +1,8 @@
 # Learn Typescript with React
-What I learned about: 
+What it is:
+* It is a little webapp where you can add a new wrist watch to an already existing collection. The ability to store watches in local storage and server database is yet to be implemented.  
+
+What I learned about in this mini project: 
 * Handling state and props with the help of interface implementation.
 * How to handle functions and events 
 * About some React specific types.
